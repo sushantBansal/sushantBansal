@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @sushantBanal
+- 👀 I’m interested in data anlytics and javascript frameworks
+- 📫 bansalss001@gmail.com
